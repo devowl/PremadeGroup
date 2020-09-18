@@ -1,0 +1,13 @@
+## Title: PremadeGroup
+## Version: 1.0
+## Author: Yaroslavl
+## Interface: 70200
+Internal\Api.lua
+Internal\Core.lua
+
+Options.xml
+Options.lua
+Party\Party.lua
+Internal\Common.lua
+localization\localization.ruRU.lua
+localization\localization.enUS.lua
